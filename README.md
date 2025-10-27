@@ -7,7 +7,7 @@
 > Simple, minimal, and ready to run with Python 3.8+.
 
 
-**Keywords / SEO-friendly phrases**: Delta Exchange SuperTrend, weekly SuperTrend scanner, crypto SuperTrend Python, Delta perpetual scanner, ATR SuperTrend weekly, crypto signal scanner.
+**Keywords**: Delta Exchange SuperTrend, weekly SuperTrend scanner, crypto SuperTrend Python, Delta perpetual scanner, ATR SuperTrend weekly, crypto signal scanner.
 
 
 ## Features
